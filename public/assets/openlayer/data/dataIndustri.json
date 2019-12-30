@@ -1,0 +1,1011 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39753300000007,
+                    0.5805880000000343
+                ]
+            },
+            "properties": {
+                "FID": 0,
+                "No_": 1,
+                "Nama": "PT. Tirta Sumber Mekarsari",
+                "Y": 0.58058799999999999,
+                "X": 101.397533,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Cahaya_Hati.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39753000000007,
+                    0.58017000000006647
+                ]
+            },
+            "properties": {
+                "FID": 1,
+                "No_": 2,
+                "Nama": "PT. United Equipment Indonesia",
+                "Y": 0.58016999999999996,
+                "X": 101.39753,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39776300000005,
+                    0.57860100000004877
+                ]
+            },
+            "properties": {
+                "FID": 2,
+                "No_": 3,
+                "Nama": "PT. Teknik Jaya Abadi",
+                "Y": 0.57860100000000003,
+                "X": 101.397763,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39709900000008,
+                    0.56987300000002961
+                ]
+            },
+            "properties": {
+                "FID": 3,
+                "No_": 4,
+                "Nama": "PT. CPJF Pekanbaru",
+                "Y": 0.56987299999999996,
+                "X": 101.397099,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39775400000008,
+                    0.5694000000000301
+                ]
+            },
+            "properties": {
+                "FID": 4,
+                "No_": 5,
+                "Nama": "Probesco",
+                "Y": 0.56940000000000002,
+                "X": 101.39775400000001,
+                "F5": " ",
+                "Foto2": "\u003cimg src='https://i.ibb.co/B2hY3y9/Probesco.jpg' width='300/'\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39763400000004,
+                    0.56637900000004038
+                ]
+            },
+            "properties": {
+                "FID": 5,
+                "No_": 6,
+                "Nama": "PT. Gaya Makmur Traktor",
+                "Y": 0.56637899999999997,
+                "X": 101.397634,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Gaya_Makmur_Traktor.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39847700000007,
+                    0.5625140000000215
+                ]
+            },
+            "properties": {
+                "FID": 6,
+                "No_": 7,
+                "Nama": "PT. Riau Beton Mandiri",
+                "Y": 0.56251399999999996,
+                "X": 101.398477,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39821600000005,
+                    0.56189200000005712
+                ]
+            },
+            "properties": {
+                "FID": 7,
+                "No_": 8,
+                "Nama": "Coatheshire",
+                "Y": 0.56189199999999995,
+                "X": 101.39821600000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.40721900000005,
+                    0.53482400000007146
+                ]
+            },
+            "properties": {
+                "FID": 8,
+                "No_": 9,
+                "Nama": "PT. Primanusa Globalindo",
+                "Y": 0.53482399999999997,
+                "X": 101.407219,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41206400000004,
+                    0.53513500000002523
+                ]
+            },
+            "properties": {
+                "FID": 9,
+                "No_": 10,
+                "Nama": "PT. Aspindo Kedaton Motor",
+                "Y": 0.53513500000000003,
+                "X": 101.412064,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.40361000000007,
+                    0.53414700000007542
+                ]
+            },
+            "properties": {
+                "FID": 10,
+                "No_": 11,
+                "Nama": "PT. Aneka Karya Tangguh",
+                "Y": 0.53414700000000004,
+                "X": 101.40361,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39442500000007,
+                    0.50213300000007166
+                ]
+            },
+            "properties": {
+                "FID": 11,
+                "No_": 12,
+                "Nama": "Nissan Datsun SM. Amin",
+                "Y": 0.50213300000000005,
+                "X": 101.394425,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39409900000004,
+                    0.49376600000005055
+                ]
+            },
+            "properties": {
+                "FID": 12,
+                "No_": 13,
+                "Nama": "Indah Kargo",
+                "Y": 0.49376599999999998,
+                "X": 101.394099,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39454700000005,
+                    0.49047100000007049
+                ]
+            },
+            "properties": {
+                "FID": 13,
+                "No_": 14,
+                "Nama": "PT. Rapi Pekanbaru",
+                "Y": 0.49047099999999999,
+                "X": 101.394547,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39446700000008,
+                    0.49033400000007532
+                ]
+            },
+            "properties": {
+                "FID": 14,
+                "No_": 15,
+                "Nama": "PT. ALS",
+                "Y": 0.49033399999999999,
+                "X": 101.39446700000001,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_ALS.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39442400000007,
+                    0.49033700000006775
+                ]
+            },
+            "properties": {
+                "FID": 15,
+                "No_": 16,
+                "Nama": "PT. Alinasar",
+                "Y": 0.49033700000000002,
+                "X": 101.394424,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Alinasar.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39703370000007,
+                    0.56945480000007365
+                ]
+            },
+            "properties": {
+                "FID": 16,
+                "No_": 17,
+                "Nama": "PT. Sujati Sinar Sempurna",
+                "Y": 0.56945480000000004,
+                "X": 101.39703369999999,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Sujati_Sinar_Sempurna.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39580730000006,
+                    0.48870570000002544
+                ]
+            },
+            "properties": {
+                "FID": 17,
+                "No_": 18,
+                "Nama": "PT. Lutvindo Wijaya Perkasa",
+                "Y": 0.48870570000000002,
+                "X": 101.3958073,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39580730000006,
+                    0.48870570000002544
+                ]
+            },
+            "properties": {
+                "FID": 18,
+                "No_": 19,
+                "Nama": "PT. PSS",
+                "Y": 0.48870570000000002,
+                "X": 101.3958073,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39793730000008,
+                    0.48791530000005423
+                ]
+            },
+            "properties": {
+                "FID": 19,
+                "No_": 20,
+                "Nama": "PT Gunung Mas Raya",
+                "Y": 0.4879153,
+                "X": 101.3979373,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.42812020000008,
+                    0.56718430000006492
+                ]
+            },
+            "properties": {
+                "FID": 20,
+                "No_": 21,
+                "Nama": "PT. Green Planet Indonesia",
+                "Y": 0.56718429999999997,
+                "X": 101.4281202,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.43163920000006,
+                    0.53518950000005816
+                ]
+            },
+            "properties": {
+                "FID": 21,
+                "No_": 22,
+                "Nama": "PT. Sumberdaya Sewatama",
+                "Y": 0.53518949999999998,
+                "X": 101.43163920000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.43251900000007,
+                    0.53658400000006168
+                ]
+            },
+            "properties": {
+                "FID": 22,
+                "No_": 23,
+                "Nama": "Contromatic Prima Mandiri. PT",
+                "Y": 0.53658399999999995,
+                "X": 101.432519,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41808200000008,
+                    0.53458300000005465
+                ]
+            },
+            "properties": {
+                "FID": 23,
+                "No_": 24,
+                "Nama": "PT. Salim Ivomas Pratama",
+                "Y": 0.53458300000000003,
+                "X": 101.418082,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.43792660000008,
+                    0.56017140000005838
+                ]
+            },
+            "properties": {
+                "FID": 24,
+                "No_": 25,
+                "Nama": "PT. Mitra Motor Semesta",
+                "Y": 0.56017139999999999,
+                "X": 101.4379266,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.45216850000008,
+                    0.52175450000004275
+                ]
+            },
+            "properties": {
+                "FID": 25,
+                "No_": 26,
+                "Nama": "Bina Dinamika Raga. PT",
+                "Y": 0.52175450000000001,
+                "X": 101.4521685,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.42307810000005,
+                    0.58204520000003868
+                ]
+            },
+            "properties": {
+                "FID": 26,
+                "No_": 27,
+                "Nama": "PT. Nindya Karya (Persero)",
+                "Y": 0.58204520000000004,
+                "X": 101.4230781,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.43251900000007,
+                    0.53658400000006168
+                ]
+            },
+            "properties": {
+                "FID": 27,
+                "No_": 28,
+                "Nama": "Contromatic Prima Mandiri. PT",
+                "Y": 0.53658399999999995,
+                "X": 101.432519,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.42215490000007,
+                    0.53495350000002873
+                ]
+            },
+            "properties": {
+                "FID": 28,
+                "No_": 29,
+                "Nama": "PT Astajaya Nirwighnata",
+                "Y": 0.53495349999999997,
+                "X": 101.4221549,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.45528090000005,
+                    0.5359817000000362
+                ]
+            },
+            "properties": {
+                "FID": 29,
+                "No_": 30,
+                "Nama": "PT. Konsul Perdana",
+                "Y": 0.53598170000000001,
+                "X": 101.45528090000001,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Konsul.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.46846930000004,
+                    0.53302340000004733
+                ]
+            },
+            "properties": {
+                "FID": 30,
+                "No_": 31,
+                "Nama": "PT. Cakra Karimun Sejahtera",
+                "Y": 0.53302340000000004,
+                "X": 101.4684693,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Cakra_Karimun.png' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.45403900000008,
+                    0.5356974000000605
+                ]
+            },
+            "properties": {
+                "FID": 31,
+                "No_": 32,
+                "Nama": "PT Pelangi Mandiri Wisata",
+                "Y": 0.53569739999999999,
+                "X": 101.45403899999999,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Pelangi.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.43153530000006,
+                    0.56327020000003358
+                ]
+            },
+            "properties": {
+                "FID": 32,
+                "No_": 33,
+                "Nama": "PT.  Indo Truck Utama",
+                "Y": 0.56327020000000005,
+                "X": 101.43153529999999,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Indotruck.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.45677220000005,
+                    0.5025262000000339
+                ]
+            },
+            "properties": {
+                "FID": 33,
+                "No_": 34,
+                "Nama": "PT . Cahaya Hati Wisata Religi",
+                "Y": 0.50252620000000003,
+                "X": 101.4567722,
+                "F5": " ",
+                "Foto2": "\u003cimg src='D:\\FitraRamadhan_4TIC_GIS\\Laporan_survey\\foto\\PT_Cahaya_Hati.jpg' width='300'/\u003e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41808330000003,
+                    0.53458330000006526
+                ]
+            },
+            "properties": {
+                "FID": 34,
+                "No_": 35,
+                "Nama": "PT. Salim Ivomas Pratama",
+                "Y": 0.53458329999999998,
+                "X": 101.41808330000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39793730000008,
+                    0.48791530000005423
+                ]
+            },
+            "properties": {
+                "FID": 35,
+                "No_": 36,
+                "Nama": "PT.Servitama Internusa",
+                "Y": 0.4879153,
+                "X": 101.3979373,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39625040000004,
+                    0.4970435000000748
+                ]
+            },
+            "properties": {
+                "FID": 36,
+                "No_": 37,
+                "Nama": "PO.Handoyo Pekanbaru Riau",
+                "Y": 0.49704350000000003,
+                "X": 101.3962504,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41041060000003,
+                    0.53628140000006397
+                ]
+            },
+            "properties": {
+                "FID": 37,
+                "No_": 38,
+                "Nama": "PT. VERBERT ALUMINDO PROFIL",
+                "Y": 0.53628140000000002,
+                "X": 101.41041060000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.42041230000007,
+                    0.4761110000000599
+                ]
+            },
+            "properties": {
+                "FID": 38,
+                "No_": 39,
+                "Nama": "Kimia Unggul Riau Tirta",
+                "Y": 0.47611100000000001,
+                "X": 101.4204123,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39414740000007,
+                    0.47611090000003742
+                ]
+            },
+            "properties": {
+                "FID": 39,
+                "No_": 40,
+                "Nama": "Centrindo Palmax. PT",
+                "Y": 0.4761109,
+                "X": 101.39414739999999,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41041060000003,
+                    0.53628140000006397
+                ]
+            },
+            "properties": {
+                "FID": 40,
+                "No_": 41,
+                "Nama": "PT. Riau Abdi Sentosa",
+                "Y": 0.53628140000000002,
+                "X": 101.41041060000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39414740000007,
+                    0.47628240000005917
+                ]
+            },
+            "properties": {
+                "FID": 41,
+                "No_": 42,
+                "Nama": "Kitani PT",
+                "Y": 0.47628239999999999,
+                "X": 101.39414739999999,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41244140000003,
+                    0.53585680000003322
+                ]
+            },
+            "properties": {
+                "FID": 42,
+                "No_": 43,
+                "Nama": "PT. Rawlindo Power Solusi",
+                "Y": 0.53585680000000002,
+                "X": 101.41244140000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.49080870000006,
+                    0.49545680000005632
+                ]
+            },
+            "properties": {
+                "FID": 43,
+                "No_": 44,
+                "Nama": "Halim Tirta Lestari PT",
+                "Y": 0.49545679999999998,
+                "X": 101.4908087,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.46941010000006,
+                    0.50528940000003786
+                ]
+            },
+            "properties": {
+                "FID": 44,
+                "No_": 45,
+                "Nama": "PT CSBS",
+                "Y": 0.5052894,
+                "X": 101.4694101,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.48806210000004,
+                    0.49558560000002672
+                ]
+            },
+            "properties": {
+                "FID": 45,
+                "No_": 46,
+                "Nama": "Diamond Cold Storage. PT",
+                "Y": 0.49558560000000001,
+                "X": 101.48806209999999,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.49609800000007,
+                    0.48044240000007221
+                ]
+            },
+            "properties": {
+                "FID": 46,
+                "No_": 47,
+                "Nama": "Global Dimensi Mandiri. PT",
+                "Y": 0.48044239999999999,
+                "X": 101.496098,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.49812040000006,
+                    0.50035440000004883
+                ]
+            },
+            "properties": {
+                "FID": 47,
+                "No_": 48,
+                "Nama": "PT.Sari Bumi Raya",
+                "Y": 0.50035439999999998,
+                "X": 101.4981204,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.47406100000006,
+                    0.4744237000000453
+                ]
+            },
+            "properties": {
+                "FID": 48,
+                "No_": 49,
+                "Nama": "Puri Green Resources. PT",
+                "Y": 0.4744237,
+                "X": 101.47406100000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.41244140000003,
+                    0.53585680000003322
+                ]
+            },
+            "properties": {
+                "FID": 49,
+                "No_": 50,
+                "Nama": "PT. Salim Ivomas Pratama",
+                "Y": 0.53585680000000002,
+                "X": 101.41244140000001,
+                "F5": " ",
+                "Foto2": " "
+            }
+        }
+    ]
+}

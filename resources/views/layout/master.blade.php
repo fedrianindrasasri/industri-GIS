@@ -35,19 +35,6 @@
   <div class="wrapper">
 
     <!-- Navbar -->
-    <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-      <!-- Left navbar links -->
-
-      <!-- Right navbar links -->
-      <ul class="navbar-nav ml-auto">
-        <!-- Messages Dropdown Menu -->
-        <li class="nav-item dropdown">
-          <a class="nav-link" data-toggle="dropdown" href="#">
-            <i class="fa fa-power-off"></i>
-          </a>
-        </li>
-      </ul>
-    </nav>
     <!-- /.navbar -->
 
     <!-- Main Sidebar Container -->

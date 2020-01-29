@@ -18,3 +18,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::get('/daftar-industri', 'industriAPI@index');
+Route::get('/daftar-industri-all', 'industriAPI@index2');

@@ -65,7 +65,7 @@
                     <td>{{ $i->alamat }}</td>
                     <td>{{ $i->x }}</td>
                     <td>{{ $i->y }}</td>
-                    <td>{{ $i->foto }}</td>
+                    <td><img src="{{ $i->foto }}" width="100"></td>
                     <td align="center">
                         <div class="btn-group">
                             <a class="btn btn-warning" href="/daftar-industri/edit/{{  $i->No }}">

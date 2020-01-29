@@ -35,6 +35,7 @@ class industriAPI extends Controller
                     'FID' => $j++,
                     'No_'=> $value['No'],
                     'Nama'=> $value['nama'],
+                    'Alamat'=> $value['alamat'],
                     'Y'=> $value['x'],
                     'X'=> $value['y'],
                     'Foto' => $value['foto'],
@@ -58,6 +59,11 @@ class industriAPI extends Controller
         print_r($final_data);
     }
 
+    public function index2(){
+        $industri = Industri::all();
+        return $industri;
+    }
+    
     /**
      * Show the form for creating a new resource.
      *

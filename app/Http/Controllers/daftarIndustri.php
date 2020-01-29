@@ -12,6 +12,7 @@ class daftarIndustri extends Controller
     {
         //mengambil data dari tb_industri semuanya.
         $industri = Industri::all();
+        
         //menampilkan halaman daftar-industri dan passing data insutri.
         return view('daftar-industri/index', ['industri' => $industri]);
     }
